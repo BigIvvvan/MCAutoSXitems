@@ -1,0 +1,5 @@
+看得懂代码的自己理解一下，我注释写的很全。
+把东西填好在excel之后，运行RPG.py，在此之前要安装python
+生成在RPGitem.txt。
+具体的配置操作请根据SX-Attribute-2.0.3的官方文档来。
+https://www.mcbbs.net/thread-793362-1-1.html这里有教程吧
